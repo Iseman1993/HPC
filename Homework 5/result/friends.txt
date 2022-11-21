@@ -1,0 +1,17 @@
+First person at the party Nika
+Nika
+Nika==>Emily
+Nika==>Emily==>Richard
+Nika==>Emily==>Richard==>Rodney
+Nika==>Emily==>Richard==>Rodney==>David
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol==>Eva
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol==>Eva==>Brett
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol==>Eva==>Brett==>Robert
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol==>Eva==>Brett==>Robert==>Annabelle
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol==>Eva==>Brett==>Robert==>Annabelle==>Travis
+Nika==>Emily==>Richard==>Rodney==>David==>Quinton==>Thomas==>David==>Florence==>Carol==>Eva==>Brett==>Robert==>Annabelle==>Travis==>Pauline
